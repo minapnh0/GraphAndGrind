@@ -38,7 +38,7 @@ extra_flavor = ["ginger"]
 full_liquid_mix = base_liquid + extra_flavor
 print(f"Liquid mix: {full_liquid_mix}")
 
-strong_brew = ["black tea", "water"] * 3
+strong_brew = ["black tea", "water"] * 3 # overloading
 print(f"String brew: {strong_brew}")
 
 
