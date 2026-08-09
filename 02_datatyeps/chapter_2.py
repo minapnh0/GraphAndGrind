@@ -1,3 +1,4 @@
+#Set - Mutable
 spice_mix = set()
 print(f"initial spice mix: {id(spice_mix)}")
 
