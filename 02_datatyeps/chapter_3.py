@@ -1,11 +1,9 @@
-# Integer
-
+# Integer - Immutable
 black_tea_grams = 14
 sugar_grams= 3 
 
 total_grams = black_tea_grams + sugar_grams
 print (f"Total grams of tea {total_grams}")
-
 
 remaining_tea = black_tea_grams - sugar_grams
 print(f"Total grams of black tea {remaining_tea}")

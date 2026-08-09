@@ -1,3 +1,4 @@
+#Boolean
 is_boiling= True
 stri_count = 6
 total_actions = is_boiling + stri_count # Upcasting
