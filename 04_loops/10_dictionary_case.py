@@ -15,3 +15,5 @@ for user in users:
     print(f"{percent}, {fixed}")
     discount = user["total"]*percent+fixed
     print(f"{user["id"]} paid {user["total"]} and got discount for next visit of rupees {discount}")
+
+    
